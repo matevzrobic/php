@@ -1,0 +1,23 @@
+.banner-info {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: aliceblue;
+    color: blue;
+}
+
+.banner-danger {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: palevioletred;
+    color: white;
+}
+
+.show-one-line{
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+}
